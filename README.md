@@ -1,3 +1,7 @@
+## Demonstration
+
+[![Watch the AMR Nav2 Demo](https://img.youtube.com/vi/J4Lo7VwxcJs/hqdefault.jpg)](https://www.youtube.com/watch?v=J4Lo7VwxcJs)
+
 ## Overview
 
 Mechabot has a Xacro robot model with wheels, a lidar, an IMU and a camera. The project includes a small-house environment and a QR maze, with launch files that combine simulation, control and higher-level ROS nodes. The source also contains experimental scripts for marker detection, maze solving, docking, battery-triggered behavior and waypoint navigation. These scripts describe implemented approaches; their reliability has not been independently verified.
