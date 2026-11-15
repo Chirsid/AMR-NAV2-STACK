@@ -1,13 +1,3 @@
-# Mechabot ROS 2 Simulation
-
-A ROS 2 Humble simulation project for a differential-drive mobile robot, with Gazebo worlds, sensor bridges, control, localization, mapping and navigation configurations.
-
-## Simulation demonstration
-
-[![Simulation footage](media/simulation_preview.jpg)](media/simulation_demo.mkv)
-
-[Watch or download the original simulation recording (MKV, H.264)](media/simulation_demo.mkv). Browser playback depends on Matroska/Vorbis support.
-
 ## Overview
 
 Mechabot has a Xacro robot model with wheels, a lidar, an IMU and a camera. The project includes a small-house environment and a QR maze, with launch files that combine simulation, control and higher-level ROS nodes. The source also contains experimental scripts for marker detection, maze solving, docking, battery-triggered behavior and waypoint navigation. These scripts describe implemented approaches; their reliability has not been independently verified.
