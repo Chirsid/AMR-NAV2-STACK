@@ -1,5 +1,7 @@
 ## Demonstration
 
+# Click on the following image to be redirected to YouTube to play the video.
+
 [![Watch the AMR Nav2 Demo](https://img.youtube.com/vi/J4Lo7VwxcJs/hqdefault.jpg)](https://www.youtube.com/watch?v=J4Lo7VwxcJs)
 
 ## Overview
